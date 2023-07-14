@@ -111,7 +111,7 @@ The results of GuavaScript provide predictions of the taste attributes (sweetnes
 
 ## Contributors
 
-Introduction to AI Group 3
+Introduction to AI Group 3 <br>
 110207404 Julia 林佳瑢 <br>
 111ZU1003 Anita 林品萱 <br>
 111ZU1012 Diana 魏彤芸 <br>
