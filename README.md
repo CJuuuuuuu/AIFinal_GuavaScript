@@ -8,12 +8,12 @@ GuavaScript is an AI project that aims to predict the quality of guavas based on
 
 To use GuavaScript AI for guava quality prediction, follow these steps:
 
-1. Download the GuavaScript HTML file from this repository.
-2. Open the HTML file in a web browser.
-3. Upload a guava photo and optionally enter a traceability code.
-4. Click "Predict" to generate quality predictions.
-5. View the predicted attributes like sweetness, sourness, crunchiness, hardness, and flavor.
-6. Please allow some time for processing, and note that prediction accuracy may vary.
+1. Click the [website](https://cjuuuuuuu-aifinal-guavascript.hf.space/) of this repository.
+2. Upload a guava photo and optionally enter a traceability code.
+   - You can download a test guava photo of which the traceability code is 2305220044418197 in this repository.
+3. Click "Predict" to generate quality predictions.
+4. View the predicted attributes like sweetness, sourness, crunchiness, hardness, and flavor.
+5. Please allow some time for processing, and note that prediction accuracy may vary.
 
 Enjoy using GuavaScript AI for accurate guava quality assessment! For any inquiries, consult the documentation or contact our support team.
 
@@ -24,11 +24,9 @@ To use GuavaScript, follow these steps:
 1. Install Python and required libraries:
    - Make sure Python is installed on your system.
    - Use the `pip install -r requirements.txt` command to install the necessary libraries.
-
 2. Obtain the guava dataset:
    - Obtain a dataset containing guava photos and their attributes (sweetness, sourness, crunchiness, hardness, flavor).
    - Note: The complete dataset is included in this [google drive folder](https://drive.google.com/drive/folders/1Cc2vjcPgX-ALqzYevf1eysp3PDPQZN1D?usp=sharing).
-
 3. Pretrained models or train them:
    - Either obtain pretrained models (Un2net, VGG16, random forest regressor) and place them in the appropriate directories.
    - Alternatively, train the models yourself using the provided code.
