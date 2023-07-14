@@ -27,7 +27,7 @@ To use GuavaScript, follow these steps:
 
 2. Obtain the guava dataset:
    - Obtain a dataset containing guava photos and their attributes (sweetness, sourness, crunchiness, hardness, flavor).
-   - Note: The dataset is not included with GuavaScript.
+   - Note: The dataset is included in the website.
 
 3. Pretrained models or train them:
    - Either obtain pretrained models (Un2net, VGG16, random forest regressor) and place them in the appropriate directories.
@@ -73,7 +73,7 @@ The file structure of GuavaScript is organized as follows:
 The development of the GuavaScript AI involves several key steps:
 
 1. **Preprocessing the Dataset**:
-   - The first step is to remove the background of the guava photos. This is achieved using the "rembg" tool, which helps in separating the guava from its background. The background removal process is performed separately for different folders containing guava photos (Anita, Chloe, Jenny, and Julia).
+   - The first step is to remove the background of the guava photos. This is achieved using the "rembg" tool, which helps separating the guava from its background. The background removal process is performed separately for different folders containing guava photos (Anita, Chloe, Jenny, and Julia).
    - After background removal, a photo tags file is created. This CSV file contains information about the guava photos, including the file name, origin, and day. It provides a structured representation of the guava photo dataset.
    - The training and testing data are obtained by loading and merging data from different CSV files that contain information about guava characteristics and features. The data is split into training and testing sets to facilitate model training and evaluation.
 
