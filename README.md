@@ -27,7 +27,7 @@ To use GuavaScript, follow these steps:
 
 2. Obtain the guava dataset:
    - Obtain a dataset containing guava photos and their attributes (sweetness, sourness, crunchiness, hardness, flavor).
-   - Note: The dataset is included in the website.
+   - Note: The complete dataset is included in this [google drive folder](https://drive.google.com/drive/folders/1Cc2vjcPgX-ALqzYevf1eysp3PDPQZN1D?usp=sharing).
 
 3. Pretrained models or train them:
    - Either obtain pretrained models (Un2net, VGG16, random forest regressor) and place them in the appropriate directories.
@@ -42,7 +42,7 @@ The file structure of GuavaScript is organized as follows:
 **GuavaScript**
 
 - These folders contain guava photos used for preprocessing and analysis
-  - Anita <dir>
+  - Anita
   - Chloe
   - Jenny
   - Julia
