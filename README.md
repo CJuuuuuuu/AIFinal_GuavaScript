@@ -1,18 +1,18 @@
-# ici_template [This section can be removed in the submission version]
-This GitHub repository offers a template specifically designed to teach students how to write effective README.md files and create a well-organized file structure. The template provides clear instructions and examples, helping students to learn the basics of GitHub and how to create professional-looking repositories.
-
-
 # Project Title
 
-[Enter the title of your project]
+GuavaScript, a Guava Quality Predictor
 
 ## Project Description
 
-[Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
+GuavaScript is an AI project that aims to predict the quality of guavas based on their photos and traceable information. The project utilizes deep learning techniques, including the Un2net and VGG16 models, to preprocess images and extract features. It also incorporates a random forest regressor model to predict the taste attributes of guavas. By providing accurate information about guava quality, the project addresses the challenges of guava selection, reduces wastage of unsalable fruit, and contributes to the reduction of food waste in Taiwan. Additionally, it aims to mitigate the impact of China's boycott on Taiwanese fruits by increasing domestic sales.
 
 ## Getting Started
 
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+To get started with GuavaScript, you need to have the following software and data:
+
+Python and its required libraries (including TensorFlow, OpenCV, NumPy, and pandas)
+The dataset containing guava photos and corresponding attributes (e.g., sweetness, sourness, crunchiness, hardness, and flavor)
+Pretrained models (Un2net, VGG16, and the random forest regressor model) or train them using the provided code
 
 ## File Structure
 
