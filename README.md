@@ -125,5 +125,27 @@ Assistant: ChatGPT
 [Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 
 ## References
+[1] 周治辰（2021）。使用卷積神經網路分類蘋果甜度等級之研究。﹝碩士論文。朝陽科技大 
+  學﹞臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/65ekn7。
 
-[List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
+[2] T. Choudhury et al., "Quality Evaluation in Guavas using Deep Learning Architectures: An    
+   Experimental Review," 2022 International Congress on Human-Computer Interaction, Optimization   
+   and Robotic Applications (HORA), Ankara, Turkey, 2022, pp. 1-6, 
+   doi: 10.1109/HORA55278.2022.9799824.
+
+[3] Kazuki Kyakuno (2020). “U2Net: A machine learning model that performs object cropping in a 
+    single shot.” Medium.   https://medium.com/axinc-ai/u2net-a-machine-learning-model-that-performs-object-cropping-in-a-single-shot-48adfc158483
+
+[4] 劉智皓(2021)。機器學習_學習筆記系列(37)：隨機森林回歸(Random Forest Regressor). 
+    Medium.
+https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-37-%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E5%9B%9E%E6%AD%B8-random-forest-regressor-a0f7a57c06c4
+
+[5]Agriculture and Food Agency
+https://www.afa.gov.tw/eng/
+
+[6] Council of Agriculture, Executive Yuan
+https://eng.coa.gov.tw
+
+[7]  Central Weather Bureau
+https://www.cwb.gov.tw/eng/
+
