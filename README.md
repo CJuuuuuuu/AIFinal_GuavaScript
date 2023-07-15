@@ -126,7 +126,7 @@ Assistant: ChatGPT
 
 ## References
 [1] 周治辰（2021）。使用卷積神經網路分類蘋果甜度等級之研究。﹝碩士論文。朝陽科技大 
-  學﹞臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/65ekn7。
+學﹞臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/65ekn7。
 
 [2] T. Choudhury et al., "Quality Evaluation in Guavas using Deep Learning Architectures: An    
    Experimental Review," 2022 International Congress on Human-Computer Interaction, Optimization   
