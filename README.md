@@ -121,7 +121,7 @@ The results of GuavaScript provide predictions of the taste attributes (sweetnes
 Assistant: ChatGPT
 
 ## Acknowledgments
-We are grateful to Professor CP in this course, AI introduction, for his helpful comments on the first draft of this AI project. Furthermore, we appreciate those programmers who create modules and upload them online for us to make use of them for free, and all of the authors conducting AI projects and writing these two studies, which offer many important ideas for us. Above all, our group members wish to thank each other who had collected data in a month for the development of data-driven learning and thank our most important member, Julia, who has taught us most of what we know about it.
+We are grateful to Professor CP, the instructor of Introduction to AI, for his helpful comments on the first draft of this AI project. We also appreciate the programmers who created modules and uploaded them online for us to make use of them for free. Furthermore, we thank all the authors conducting AI projects and writing the two studies (i.e., 周治辰 and T. Choudhury et al.) which offer many important ideas for us. Finally, our group members wish to thank each other for data collection throughout the semester and thank our most significant contributor, Julia, for her help teaching us about the techniques and the project.
 
 ## References
 [1] 周治辰(2021)。使用卷積神經網路分類蘋果甜度等級之研究。[碩士論文。朝陽科技大學] 臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/65ekn7.
