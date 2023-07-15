@@ -1,4 +1,4 @@
-# GuavaScript, a Guava Quality Predictor
+# GuavaScript: a Guava Quality Predictor
 
 ## Project Description
 
@@ -39,19 +39,19 @@ The file structure of GuavaScript is organized as follows:
 
 **GuavaScript**
 
-- These folders contain guava photos used for preprocessing and analysis
+- Folders contain guava photos used for preprocessing and analysis
   - Anita
   - Chloe
   - Jenny
   - Julia
-- This folder stores the preprocessed guava photos with background removed
+- Folder stores the preprocessed guava photos with background removed
   - PhotoData
-- The main code file containing the entire project code
+- Main code file containing the entire project code
   - GuavaScript.html
   - GuavaScript.ipynb
   - GuavaScript.py
   - requirements.txt
-- These CSV files contain the dataset and guava attributes used for training and testing
+- CSV files contain the dataset and guava attributes used for training and testing
   - GuavaScript.xlsx (raw data)
   - Photo_Tag.csv
   - Machine1.csv
@@ -59,10 +59,10 @@ The file structure of GuavaScript is organized as follows:
   - Machine2_new.csv
   - Machine3.csv
   - CodeData.csv
-- These files contain the testing data and the predicted guava attributes, respectively
+- CSV files contain the testing data and the predicted guava attributes, respectively
   - TestData.csv
   - ResultData.csv
-- These files store the trained models for day prediction and taste prediction, respectively
+- Trained models for day prediction and taste prediction, respectively
   - DayAI.h5
   - TasteAI.joblib
 
@@ -107,7 +107,7 @@ These steps collectively enable the GuavaScript AI to preprocess the dataset, tr
 
 ## Results
 
-The results of GuavaScript provide predictions of the taste attributes (sweetness, sourness, crunchiness, hardness, and flavor) for guavas based on their photos and traceable information.The accuracy rate is 0.4 ,which is lower than we expected.There are three main problems we encountered.First is about the amount of the data,we didn't collect enough images of guava,and also the information of guava.Second.we tested guavas by our subjective feeling instead of professional equipment.Last was the variability in photo parameters due to the diverse resolutions and RGB settings of different phones.These problems potentially impacting the accuracy of the results. To address this issue and improve the project, it would be beneficial to use a variety of phones to capture images during the training data preparation phase.It also helpful to increase our accuracy by collecting more images of guava and to use professional equipment to test guava instead of our subjective feeling.  Despite these challenges, the AI project offers four key benefits: reducing consumer confusion when selecting fruits, enhancing interaction and experience between businesses and consumers, lowering operating costs for businesses, and minimizing resource waste.Looking ahead, this approach holds promise not only for supermarkets but also for smart agriculture and quality monitoring.
+The results of GuavaScript provide predictions of the taste attributes (sweetness, sourness, crunchiness, hardness, and flavor) for guavas based on their photos and traceable information. However, the accuracy rate of 0.4 is lower than our expectations. We encountered three main problems during the project. Firstly, we lacked sufficient data, both in terms of guava images and accompanying information. Secondly, our testing process relied on subjective feelings rather than using professional equipment. Lastly, the variability in photo parameters due to different resolutions and RGB settings of phones affected the accuracy of the results. To improve the project, it is necessary to collect more guava images and information, use professional equipment for testing, and consider the variability in photo parameters. Despite these challenges, the AI project still offers significant benefits, including reducing consumer confusion, enhancing interactions between businesses and consumers, lowering operating costs, and minimizing resource waste. The future potential of this approach extends beyond supermarkets, with applications in smart agriculture and quality monitoring.
 
 ## Contributors
 
@@ -121,30 +121,25 @@ The results of GuavaScript provide predictions of the taste attributes (sweetnes
 Assistant: ChatGPT
 
 ## Acknowledgments
-We are grateful to Professor CP in this course, AI introduction, for his helpful comments on the first draft of this AI project. Furthermore, we appreciate those programmers who create modules and upload them online for us to make use of them for free ,and all of the authors conducting AI projects  and writing these two studies ,which offer many important ideas for us. Above all, our group members wish to thank each other who had collected data in a month for the development of data-driven learning, and thank our most important member, Julia, who has taught us most of what we know about it. 
+We are grateful to Professor CP in this course, AI introduction, for his helpful comments on the first draft of this AI project. Furthermore, we appreciate those programmers who create modules and upload them online for us to make use of them for free, and all of the authors conducting AI projects and writing these two studies, which offer many important ideas for us. Above all, our group members wish to thank each other who had collected data in a month for the development of data-driven learning and thank our most important member, Julia, who has taught us most of what we know about it.
 
 ## References
-[1] 周治辰（2021）。使用卷積神經網路分類蘋果甜度等級之研究。﹝碩士論文。朝陽科技大 
-學﹞臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/65ekn7。
+[1] 周治辰(2021)。使用卷積神經網路分類蘋果甜度等級之研究。[碩士論文。朝陽科技大學] 臺灣博碩士論文知識加值系統。 https://hdl.handle.net/11296/65ekn7.
 
-[2] T. Choudhury et al., "Quality Evaluation in Guavas using Deep Learning Architectures: An    
-   Experimental Review," 2022 International Congress on Human-Computer Interaction, Optimization   
-   and Robotic Applications (HORA), Ankara, Turkey, 2022, pp. 1-6, 
-   doi: 10.1109/HORA55278.2022.9799824.
+[2] T. Choudhury et al., "Quality Evaluation in Guavas using Deep Learning Architectures: An Experimental Review," 2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), Ankara, Turkey, 2022, pp. 1-6, doi: 10.1109/HORA55278.2022.9799824.
 
-[3] Kazuki Kyakuno (2020). “U2Net: A machine learning model that performs object cropping in a 
-    single shot.” Medium.   https://medium.com/axinc-ai/u2net-a-machine-learning-model-that-performs-object-cropping-in-a-single-shot-48adfc158483
+[3] Kazuki Kyakuno (2020). "U2Net: A machine learning model that performs object cropping in a single shot." Medium.   https://medium.com/axinc-ai/u2net-a-machine-learning-model-that-performs-object-cropping-in-a-single-shot-48adfc158483
 
-[4] 劉智皓(2021)。機器學習_學習筆記系列(37)：隨機森林回歸(Random Forest Regressor). 
-    Medium.
-https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-37-%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E5%9B%9E%E6%AD%B8-random-forest-regressor-a0f7a57c06c4
+[4] 劉智皓(2021)。機器學習_學習筆記系列(37)：隨機森林回歸(Random Forest Regressor). Medium. https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-37-%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E5%9B%9E%E6%AD%B8-random-forest-regressor-a0f7a57c06c4
 
-[5]Agriculture and Food Agency.
-https://www.afa.gov.tw/eng/
+[5] 農情報告資源網。111年鄉鎮作物查詢。https://agr.afa.gov.tw/afa/afa_frame.jsp
 
-[6] Council of Agriculture, Executive Yuan.
-https://eng.coa.gov.tw
+[6] 產銷履歷農產品資訊網。
+番石榴--履歷燕巢芭樂：https://tqr.tw/?t=2305210094508639
+履歷番石榴。https://tqr.tw/?t=2305210094508639
+番石榴--珍珠芭樂。https://taft.coa.gov.tw/sp-resume-code-7075595-2305190236628545-1.html
+番石榴-履歷芭樂。https://tqr.tw/?t=2305220044418197
 
-[7]  Central Weather Bureau.
-https://www.cwb.gov.tw/eng/
+[7] CODIS氣候資料服務系統。111年年報表。https://codis.cwb.gov.tw/StationData#
+
 
