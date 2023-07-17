@@ -134,11 +134,11 @@ We are grateful to Professor CP, the instructor of Introduction to AI, for his h
 
 [5] 農情報告資源網。111年鄉鎮作物查詢。https://agr.afa.gov.tw/afa/afa_frame.jsp
 
-[6] 產銷履歷農產品資訊網。
-番石榴--履歷燕巢芭樂：https://tqr.tw/?t=2305210094508639
-履歷番石榴。https://tqr.tw/?t=2305210094508639
-番石榴--珍珠芭樂。https://taft.coa.gov.tw/sp-resume-code-7075595-2305190236628545-1.html
-番石榴-履歷芭樂。https://tqr.tw/?t=2305220044418197
+[6] 產銷履歷農產品資訊網。 <br>
+番石榴--履歷燕巢芭樂。https://tqr.tw/?t=2305210094508639 <br>
+履歷番石榴。https://tqr.tw/?t=2305210094508639 <br>
+番石榴--珍珠芭樂。https://taft.coa.gov.tw/sp-resume-code-7075595-2305190236628545-1.html <br>
+番石榴-履歷芭樂。https://tqr.tw/?t=2305220044418197 <br>
 
 [7] CODIS氣候資料服務系統。111年年報表。https://codis.cwb.gov.tw/StationData#
 
